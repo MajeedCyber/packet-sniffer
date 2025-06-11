@@ -32,8 +32,3 @@ A Python-based network packet sniffer that monitors traffic and detects suspicio
 ![Log file](screenshots/log_file.png)
 *Example of the generated log file with timestamps*
 
-## How to Create These Screenshots
-
-1. **Setup Screenshot**: Run the script in your terminal and capture the startup message
-   ```bash
-   python packet_sniffer.py
