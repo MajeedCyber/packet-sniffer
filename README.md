@@ -17,9 +17,9 @@ A Python-based network packet sniffer that monitors traffic and detects suspicio
 ![Normal traffic](first.png)
 
 ### Malicious IP Detection
-![Malicious IP detection](screenshots/malicious.png)
+![Malicious IP detection](malicious.png)
 *Alert when traffic matches known malicious IP addresses*
 
 ### Log File Output
-![Log file](screenshots/second.png)
+![Log file](second.png)
 
