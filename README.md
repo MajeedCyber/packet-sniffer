@@ -12,23 +12,14 @@ A Python-based network packet sniffer that monitors traffic and detects suspicio
 
 ## Demo
 
-### Running the Sniffer
-![Running the sniffer](screenshots/running.png)
-*The sniffer starting up and waiting for network traffic*
 
 ### Normal Traffic Detection
-![Normal traffic](screenshots/normal_traffic.png)
-*Example of normal HTTP traffic being logged*
+![Normal traffic](first.png)
 
 ### Malicious IP Detection
-![Malicious IP detection](screenshots/malicious_ip.png)
+![Malicious IP detection](screenshots/malicious.png)
 *Alert when traffic matches known malicious IP addresses*
 
-### Suspicious Port Detection
-![Suspicious port](screenshots/suspicious_port.png)
-*Warning when traffic uses known suspicious ports (like 4444)*
-
 ### Log File Output
-![Log file](screenshots/log_file.png)
-*Example of the generated log file with timestamps*
+![Log file](screenshots/second.png)
 
